@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working at [NREL](https://www.nrel.gov/)
 
+- 🌎 Check out my [portfolio website](https://sebastianbarry.github.io/)!
+
 - 🌱 I’m currently learning **Python, TypeScript and artificial intelligence**
 
 - 💬 Ask me about **React, Python, Data Mining**
