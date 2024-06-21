@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate fullstack developer from Denver, CO</h3>
 
-- 🔭 I’m currently working at [NREL](https://www.nrel.gov/)
+- 🔭 I’m currently working at [Deloitte Consulting](https://www.deloitte.com/global/en/services/consulting.html)!
 
 - 🌎 Check out my [portfolio website](https://sebastianbarry.github.io/)!
 
 - 🌱 I’m currently learning **Python, TypeScript and artificial intelligence**
 
-- 💬 Ask me about **React, Python, Data Mining**
+- 💬 Ask me about **Full-Stack Development, React, Python, Data Mining**
 
 - 📫 How to reach me **sebbarry@comcast.net**
 
